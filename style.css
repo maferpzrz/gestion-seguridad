@@ -201,7 +201,7 @@
   }
   
   
-  /* Testimonios */
+  /* seguridad */
   
   .testimonios {
     padding: 40px 40px 80px 40px;
@@ -359,7 +359,10 @@
     color: #130419;
     padding: 20px;
   }
-  
+
+section .secciontabla{
+  background-color: #d0c52a;
+}
   /* Adaptable (Responsivo) */
   
   @media screen and (max-width: 400px) {
